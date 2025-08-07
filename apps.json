@@ -8,11 +8,25 @@
       "developerName": "franklin reyes",
       "version": "17.0",
       "versionDate": "2025-08-06T18:00:00-04:00",
-      "downloadURL": "https://github.com/franklin000771612-code/SYF-Receiver-Distribution./releases/download/17.0/SYF.RECEIVER.DEVICES.ipa",
+      "downloadURL": "https://github.com/franklin000771612-code/SYF-RECEIVER-/releases/download/V17.0/SYF.RECEIVER.DEVICES.ipa",
       "localizedDescription": "La herramienta definitiva para gestionar tu taller de reparaciones.",
       "iconURL": "https://i.imgur.com/0FUMf3r.png",
       "tintColor": "007bff",
-      "size": 15000000
+      "size": 15000000,
+      "permissions": [
+        {
+          "type": "camera",
+          "usageDescription": "Para tomar fotos de los equipos y productos."
+        },
+        {
+          "type": "contacts",
+          "usageDescription": "Para importar la información de tus clientes rápidamente."
+        },
+        {
+          "type": "photos",
+          "usageDescription": "Para seleccionar fotos de los equipos desde tu galería."
+        }
+      ]
     }
   ]
 }
